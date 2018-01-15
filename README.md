@@ -590,3 +590,6 @@ geemail dotcom (twitter: [@jplehmann][12]).
 [pipinstallerbug]: http://stackoverflow.com/questions/31808180/installing-pyinstaller-via-pip-leads-to-failed-to-create-process
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/coursera-dl/coursera-dl/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+# DC500 notes 
+# If you're clueless about how to make it work. Simply type "  coursera-dl -u "youremail" -p "yourpassword" "endoftheurl which is the course name" 
